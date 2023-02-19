@@ -1,0 +1,30 @@
+.parent{
+    background-color:aqua;
+    padding:30px;
+    margin:20px;
+}
+.child{
+   background-color:blueviolet;
+    padding:10px;
+    margin:20px;
+}
+.multi-paarent{
+    background-color: aquamarine;
+    padding:10px;
+    margin:20px;
+}
+.multi-child{
+    background-color: cornsilk;
+    padding:10px;
+    margin:20px;
+}
+.multi-inner-parent{
+    background-color: blanchedalmond;
+    padding:10px;
+    margin:20px;
+}
+multi-inner-child{
+    background-color: cadetblue;
+    padding:10px;
+    margin:20px;
+}
